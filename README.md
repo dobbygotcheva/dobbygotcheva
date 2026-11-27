@@ -50,7 +50,9 @@ I love mathematics 💜 and I enjoy turning ideas into code.
 
 ## 🏅 My HackerRank badges
 
-[![HackerRank badges: Problem Solving, C++, and Java](hackerrank-badges.png)](https://www.hackerrank.com/certificates/iframe/00c3db86eb2d)
+<a href="https://www.hackerrank.com/certificates/iframe/00c3db86eb2d">
+  <img src="hackerrank-badges.png" alt="HackerRank badges: Problem Solving, C++, and Java" width="300">
+</a>
 
 [See my certificate →](https://www.hackerrank.com/certificates/iframe/00c3db86eb2d)
 
@@ -59,7 +61,7 @@ I love mathematics 💜 and I enjoy turning ideas into code.
 Thanks for stopping by! 😊
 
 <a href="https://tenor.com/view/balhae-gif-21817368">
-  <img src="meme.gif" alt="Balhae meme GIF" width="498">
+  <img src="meme.gif" alt="Balhae meme GIF" width="240">
 </a>
 
 </div>
