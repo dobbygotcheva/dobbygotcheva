@@ -12,6 +12,11 @@ I love mathematics. Courses I have taken:
 - Differential Equations
 - Numerical Analysis
 
+Two physics courses that count toward mathematics:
+
+- Electromagnetism, Relativity, and Quantum Physics
+- Mechanics and Thermodynamics
+
 Practical computer science courses I have taken:
 
 - C++
