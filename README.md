@@ -10,7 +10,18 @@ I love mathematics. Courses I have taken:
 - Calculus 3
 - Differential Equations
 - Numerical Analysis
-- Artificial Intelligence and AI Programming
+
+Practical computer science courses I have taken:
+
+- C++
+- Computer Architecture
+- AI
+- Python
+- Basics in C#
+- Data Structures
+- Java
+- Software Engineering
+- Operating Systems
 
 ### HackerRank
 
