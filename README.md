@@ -10,32 +10,44 @@ I love mathematics 💜 and I enjoy turning ideas into code.
 
 ---
 
-## 📐 Mathematics
+<div align="center">
 
-| Foundations | Calculus and analysis | Data and numbers |
-| :--- | :--- | :--- |
-| Discrete Structures | Calculus 1 | Statistics |
-| Analytical Geometry | Calculus 2 | Numerical Analysis |
-| Linear Algebra | Calculus 3 | |
-| | Differential Equations | |
+## 📐 Mathematics and physics ⚛️
 
-## ⚛️ Physics
+**Foundations**<br>
+Discrete Structures · Analytical Geometry · Linear Algebra
 
-*These count toward mathematics too.*
+**Calculus and analysis**<br>
+Calculus 1 · Calculus 2 · Calculus 3 · Differential Equations
 
-| Course |
-| :--- |
-| Mechanics and Thermodynamics |
-| Electromagnetism, Relativity, and Quantum Physics |
+**Data and numbers**<br>
+Statistics · Numerical Analysis
+
+**Physics, counted toward mathematics**<br>
+Mechanics and Thermodynamics · Electromagnetism, Relativity, and Quantum Physics
+
+</div>
+
+---
+
+<div align="center">
 
 ## 💻 Computer science
 
-| Programming languages | Core computer science | Applied |
-| :--- | :--- | :--- |
-| C++ | Data Structures | AI |
-| Java | Computer Architecture | Software Engineering |
-| Python | Operating Systems | Databases |
-| Basics in C# | | |
+**Programming languages**<br>
+C++ · Java · Python · Basics in C#
+
+**Core computer science**<br>
+Data Structures · Computer Architecture · Operating Systems
+
+**Applied**<br>
+AI · Software Engineering · Databases
+
+</div>
+
+---
+
+<div align="center">
 
 ## 🌱 Learning for fun
 
@@ -44,17 +56,19 @@ I love mathematics 💜 and I enjoy turning ideas into code.
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-E43717?style=flat-square&logo=rust&logoColor=white)
 
+</div>
+
 ---
 
 <div align="center">
 
-## 🏅 My HackerRank badges
+## 🏅 HackerRank
 
 <a href="https://www.hackerrank.com/certificates/iframe/00c3db86eb2d">
   <img src="hackerrank-badges.png" alt="HackerRank badges: Problem Solving, C++, and Java" width="300">
 </a>
 
-[See my certificate →](https://www.hackerrank.com/certificates/iframe/00c3db86eb2d)
+[View my certificate →](https://www.hackerrank.com/certificates/iframe/00c3db86eb2d)
 
 <br>
 
