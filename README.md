@@ -27,7 +27,7 @@
 
 **🌱&nbsp;For&nbsp;fun**
 
-<img src="https://img.shields.io/badge/JavaScript-2D333B?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="16"><br><img src="https://img.shields.io/badge/TypeScript-2D333B?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" height="16"><br><img src="https://img.shields.io/badge/PHP-2D333B?style=flat-square&logo=php&logoColor=8892BF" alt="PHP" height="16"><br><img src="https://img.shields.io/badge/Rust-2D333B?style=flat-square&logo=rust&logoColor=DEA584" alt="Rust" height="16">
+<img src="https://img.shields.io/badge/JavaScript-2D333B?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="16"><br><img src="js-for-fun.png" alt="初中生也能搞全栈" width="88"><br><img src="https://img.shields.io/badge/TypeScript-2D333B?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" height="16"><br><img src="https://img.shields.io/badge/PHP-2D333B?style=flat-square&logo=php&logoColor=8892BF" alt="PHP" height="16"><br><img src="https://img.shields.io/badge/Rust-2D333B?style=flat-square&logo=rust&logoColor=DEA584" alt="Rust" height="16">
 
 </td>
 </tr>
