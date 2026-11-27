@@ -2,8 +2,6 @@
 
 <h1>Servus! 👋&nbsp;<a href="https://tenor.com/view/balhae-gif-21817368"><img src="meme.gif" alt="Balhae meme GIF" height="90" align="center"></a></h1>
 
-Computer Science Bachelor 🎓
-
 <table>
 <tr>
 <td valign="top" align="center">
@@ -15,7 +13,7 @@ Computer Science Bachelor 🎓
 </td>
 <td valign="top" align="center">
 
-**💻 Computer science**
+**💻 Computer Science Bachelor 🎓**
 
 ![C++](https://img.shields.io/badge/C%2B%2B-2D333B?style=flat-square&logo=cplusplus&logoColor=white)<br>![Java](https://img.shields.io/badge/Java-2D333B?style=flat-square&logo=openjdk&logoColor=white)<br>![Python](https://img.shields.io/badge/Python-2D333B?style=flat-square&logo=python&logoColor=white)<br>![Basics in C#](https://img.shields.io/badge/C%23%20Basics-2D333B?style=flat-square)<br>![Data Structures](https://img.shields.io/badge/Data%20Structures-2D333B?style=flat-square)<br>![Computer Architecture](https://img.shields.io/badge/Computer%20Architecture-2D333B?style=flat-square)<br>![Operating Systems](https://img.shields.io/badge/Operating%20Systems-2D333B?style=flat-square)<br>![AI](https://img.shields.io/badge/AI-2D333B?style=flat-square)<br>![Software Engineering](https://img.shields.io/badge/Software%20Engineering-2D333B?style=flat-square)<br>![Databases](https://img.shields.io/badge/Databases-2D333B?style=flat-square)<br>![Introduction to Data Mining](https://img.shields.io/badge/Intro%20to%20Data%20Mining-2D333B?style=flat-square)
 
