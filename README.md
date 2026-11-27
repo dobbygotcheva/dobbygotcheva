@@ -11,7 +11,7 @@
 </td>
 <td valign="top">
 
-**💻 Computer Science Bachelor 🎓**
+**💻 Computer Science Bachelor 🎓**<br><sub>Practical courses</sub>
 
 ![C++](https://img.shields.io/badge/C%2B%2B-2D333B?style=flat-square&logo=cplusplus&logoColor=white)<br>![Java](https://img.shields.io/badge/Java-2D333B?style=flat-square&logo=openjdk&logoColor=white)<br>![Python](https://img.shields.io/badge/Python-2D333B?style=flat-square&logo=python&logoColor=white)<br>![Basics in C#](https://img.shields.io/badge/Basics%20in%20C%23-2D333B?style=flat-square)<br>![Data Structures](https://img.shields.io/badge/Data%20Structures-2D333B?style=flat-square)<br>![Computer Architecture](https://img.shields.io/badge/Computer%20Architecture-2D333B?style=flat-square)<br>![Operating Systems](https://img.shields.io/badge/Operating%20Systems-2D333B?style=flat-square)<br>![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-2D333B?style=flat-square)<br>![Software Engineering](https://img.shields.io/badge/Software%20Engineering-2D333B?style=flat-square)<br>![Database Design and Management](https://img.shields.io/badge/Database%20Design%20and%20Management-2D333B?style=flat-square)<br>![Introduction to Data Mining](https://img.shields.io/badge/Introduction%20to%20Data%20Mining-2D333B?style=flat-square)
 
