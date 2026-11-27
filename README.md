@@ -23,6 +23,13 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-2D333B?style=flat-square&logo=javascript&logoColor=F7DF1E)<br>![TypeScript](https://img.shields.io/badge/TypeScript-2D333B?style=flat-square&logo=typescript&logoColor=3178C6)<br>![PHP](https://img.shields.io/badge/PHP-2D333B?style=flat-square&logo=php&logoColor=8892BF)<br>![Rust](https://img.shields.io/badge/Rust-2D333B?style=flat-square&logo=rust&logoColor=DEA584)
 
 </td>
+<td valign="top">
+
+**🛠️ Software engineering**
+
+![Software Technologies: Advanced Topics](https://img.shields.io/badge/Software%20Technologies%3A%20Advanced%20Topics-2E3B36?style=flat-square)<br>![Software Technologies 2 (Project)](https://img.shields.io/badge/Software%20Technologies%202%20%28Project%29-2E3B36?style=flat-square)<br>![Models of Software Systems](https://img.shields.io/badge/Models%20of%20Software%20Systems-2E3B36?style=flat-square)<br>![Service-Based Software Systems](https://img.shields.io/badge/Service--Based%20Software%20Systems-2E3B36?style=flat-square)<br>![Software Systems Architectures](https://img.shields.io/badge/Software%20Systems%20Architectures-2E3B36?style=flat-square)<br>![Software Systems Patterns](https://img.shields.io/badge/Software%20Systems%20Patterns-2E3B36?style=flat-square)<br>![Object-Oriented Analysis & Design](https://img.shields.io/badge/Object--Oriented%20Analysis%20%26%20Design-2E3B36?style=flat-square)<br>![Internet Technologies & Web Programming](https://img.shields.io/badge/Internet%20Technologies%20%26%20Web%20Programming-2E3B36?style=flat-square)<br>![Knowledge Discovery in Data](https://img.shields.io/badge/Knowledge%20Discovery%20in%20Data-2E3B36?style=flat-square)<br>![Project Management](https://img.shields.io/badge/Project%20Management-2E3B36?style=flat-square)<br>![Technology Entrepreneurship](https://img.shields.io/badge/Technology%20Entrepreneurship-2E3B36?style=flat-square)<br>![Professional Ethics](https://img.shields.io/badge/Professional%20Ethics-2E3B36?style=flat-square)<br>![Organizational Behavior & Leadership](https://img.shields.io/badge/Organizational%20Behavior%20%26%20Leadership-2E3B36?style=flat-square)
+
+</td>
 </tr>
 </table>
 
