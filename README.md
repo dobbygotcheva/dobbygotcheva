@@ -1,18 +1,20 @@
 <div align="center">
 
-# Servus
+# Servus! 👋
 
-I love mathematics.
+Welcome to my corner of GitHub ✨
 
-Mathematics, the physics counted with it, computer science from coursework, and a few languages kept up out of interest.
+I love mathematics 💜 and I enjoy turning ideas into code.
 
 </div>
+
+---
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Mathematics
+### 📐 Mathematics
 
 - Discrete Structures
 - Analytical Geometry
@@ -24,9 +26,9 @@ Mathematics, the physics counted with it, computer science from coursework, and 
 - Differential Equations
 - Numerical Analysis
 
-### Physics
+### ⚛️ Physics
 
-*Counted toward mathematics.*
+*These two count toward mathematics too:*
 
 - Electromagnetism, Relativity, and Quantum Physics
 - Mechanics and Thermodynamics
@@ -34,7 +36,7 @@ Mathematics, the physics counted with it, computer science from coursework, and 
 </td>
 <td width="50%" valign="top">
 
-### Computer science
+### 💻 Computer science
 
 - C++
 - Computer Architecture
@@ -47,23 +49,27 @@ Mathematics, the physics counted with it, computer science from coursework, and 
 - Operating Systems
 - Databases
 
-### Personal interest
+### 🌱 Learning for fun
 
-![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-181717?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![PHP](https://img.shields.io/badge/PHP-181717?style=for-the-badge&logo=php&logoColor=777BB4)
-![Rust](https://img.shields.io/badge/Rust-181717?style=for-the-badge&logo=rust&logoColor=E43717)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-E43717?style=flat-square&logo=rust&logoColor=white)
 
 </td>
 </tr>
 </table>
 
+---
+
 <div align="center">
 
-### HackerRank
+### 🏅 My HackerRank badges
 
 [![HackerRank badges: Problem Solving, C++, and Java](hackerrank-badges.png)](https://www.hackerrank.com/certificates/iframe/00c3db86eb2d)
 
-[View certificate](https://www.hackerrank.com/certificates/iframe/00c3db86eb2d)
+[See my certificate →](https://www.hackerrank.com/certificates/iframe/00c3db86eb2d)
+
+Thanks for stopping by! 😊
 
 </div>
