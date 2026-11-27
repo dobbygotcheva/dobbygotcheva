@@ -3,6 +3,7 @@
 I love mathematics. Courses I have taken:
 
 - Discrete Structures
+- Analytical Geometry
 - Linear Algebra
 - Statistics
 - Calculus 1
