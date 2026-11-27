@@ -22,6 +22,10 @@ Practical computer science courses I have taken:
 - Java
 - Software Engineering
 - Operating Systems
+- Databases
+- ORM
+
+From personal interest: JavaScript, TypeScript, PHP, and Rust.
 
 ### HackerRank
 
