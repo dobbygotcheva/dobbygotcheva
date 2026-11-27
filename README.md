@@ -1,4 +1,4 @@
-<h1>Servus! 👋&nbsp;<a href="https://tenor.com/view/balhae-gif-21817368"><img src="meme.gif" alt="Balhae meme GIF" height="90" align="center"></a></h1>
+<h1>Servus! <a href="https://tenor.com/view/balhae-gif-21817368"><img src="meme.gif" alt="Balhae meme GIF" height="90" align="center"></a></h1>
 
 <table>
 <tr>
