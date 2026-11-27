@@ -2,6 +2,8 @@
 
 <h1>Servus! 👋&nbsp;<a href="https://tenor.com/view/balhae-gif-21817368"><img src="meme.gif" alt="Balhae meme GIF" height="90" align="center"></a></h1>
 
+Computer Science Bachelor 🎓
+
 ### 📐 Mathematics & ⚛️ Physics
 
 ![Discrete Structures](https://img.shields.io/badge/Discrete%20Structures-3B3450?style=flat-square) ![Analytical Geometry](https://img.shields.io/badge/Analytical%20Geometry-3B3450?style=flat-square) ![Linear Algebra](https://img.shields.io/badge/Linear%20Algebra-3B3450?style=flat-square) ![Statistics](https://img.shields.io/badge/Statistics-3B3450?style=flat-square) ![Calculus 1](https://img.shields.io/badge/Calculus%201-3B3450?style=flat-square) ![Calculus 2](https://img.shields.io/badge/Calculus%202-3B3450?style=flat-square) ![Calculus 3](https://img.shields.io/badge/Calculus%203-3B3450?style=flat-square) ![Differential Equations](https://img.shields.io/badge/Differential%20Equations-3B3450?style=flat-square) ![Numerical Analysis](https://img.shields.io/badge/Numerical%20Analysis-3B3450?style=flat-square) ![Mechanics and Thermodynamics](https://img.shields.io/badge/Mechanics%20%26%20Thermodynamics-2C3B52?style=flat-square) ![Electromagnetism, Relativity, and Quantum Physics](https://img.shields.io/badge/Electromagnetism%2C%20Relativity%20%26%20Quantum%20Physics-2C3B52?style=flat-square)
