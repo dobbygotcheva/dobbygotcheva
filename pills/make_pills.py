@@ -37,6 +37,7 @@ LANG_DOTS = {
     "PHP": "#4F5D95",
     "Rust": "#DEA584",
     "TypeScript Academy · CoddyKit": "#3178C6",
+    "Problem Solving (Basic) · HackerRank": "#2EC866",
 }
 
 TAGS = {
@@ -72,6 +73,7 @@ TAGS = {
         "PHP",
         "Rust",
         "TypeScript Academy · CoddyKit",
+        "Problem Solving (Basic) · HackerRank",
     ],
     "master": [
         "Software Technologies: Advanced Topics",
