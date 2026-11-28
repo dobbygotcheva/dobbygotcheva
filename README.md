@@ -33,8 +33,23 @@
 </tr>
 </table>
 
-### 🏅 HackerRank
+<table>
+<tr>
+<td valign="top">
+
+**📜 Certificates**
+
+<a href="https://www.coddykit.com/certificates?token=UF39wciO83wy"><img src="https://img.shields.io/badge/TypeScript%20Academy%20%C2%B7%20CoddyKit-2D333B?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript Academy certificate, CoddyKit" height="20"></a>
+
+</td>
+<td valign="top">
+
+**🏅 HackerRank**
 
 <a href="https://www.hackerrank.com/certificates/iframe/00c3db86eb2d"><img src="hackerrank-badges.png" alt="HackerRank badges: Problem Solving, C++, and Java" width="260"></a>
 
 [View my certificate →](https://www.hackerrank.com/certificates/iframe/00c3db86eb2d)
+
+</td>
+</tr>
+</table>
