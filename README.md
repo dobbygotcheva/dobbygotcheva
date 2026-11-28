@@ -1,4 +1,4 @@
-<h1><picture><source media="(prefers-color-scheme: dark)" srcset="pills/title-dark.svg"><img src="pills/title-light.svg" alt="Servus!"></picture>&nbsp;&nbsp;<a href="https://tenor.com/view/balhae-gif-21817368"><img src="meme.gif" alt="Balhae meme GIF" height="90"></a></h1>
+<h1><picture><source media="(prefers-color-scheme: dark)" srcset="pills/title-dark.svg"><img src="pills/title-light.svg" alt="Servus!"></picture>&nbsp;&nbsp;<a href="https://www.hackerrank.com/certificates/iframe/00c3db86eb2d"><img src="hackerrank-badges.png" alt="HackerRank badges: Problem Solving, C++, and Java" height="90"></a></h1>
 
 <table>
 <tr>
@@ -39,16 +39,12 @@
 
 **📜 Certificates**
 
-<a href="https://www.coddykit.com/certificates?token=UF39wciO83wy"><img src="pills/typescript-academy-coddykit.svg" alt="TypeScript Academy · CoddyKit"></a>
+<a href="https://www.coddykit.com/certificates?token=UF39wciO83wy"><img src="pills/typescript-academy-coddykit.svg" alt="TypeScript Academy · CoddyKit"></a><br><a href="https://www.hackerrank.com/certificates/iframe/00c3db86eb2d"><img src="pills/problem-solving-basic-hackerrank.svg" alt="Problem Solving (Basic) · HackerRank"></a>
 
 </td>
 <td valign="top">
 
-<img src="pills/hackerrank-logo.svg" alt="HackerRank logo" height="18" align="top">&nbsp;**My HackerRank**
-
-<a href="https://www.hackerrank.com/certificates/iframe/00c3db86eb2d"><img src="hackerrank-badges.png" alt="HackerRank badges: Problem Solving, C++, and Java" width="260"></a>
-
-[View my certificate →](https://www.hackerrank.com/certificates/iframe/00c3db86eb2d)
+<a href="https://tenor.com/view/balhae-gif-21817368"><img src="meme.gif" alt="Balhae meme GIF" width="240"></a>
 
 </td>
 </tr>
