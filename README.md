@@ -44,7 +44,7 @@
 </td>
 <td valign="top">
 
-<a href="https://www.hackerrank.com/certificates/iframe/00c3db86eb2d"><img src="hackerrank-badges.png" alt="My HackerRank badges: Problem Solving, C++, and Java" width="260"></a>
+<img src="hackerrank-badges.png" alt="My HackerRank badges: Problem Solving, C++, and Java" width="260">
 
 </td>
 </tr>
