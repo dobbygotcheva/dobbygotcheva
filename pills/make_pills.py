@@ -10,6 +10,10 @@ from pathlib import Path
 from PIL import ImageFont
 
 FONT_PATH = "/usr/share/fonts/truetype/msttcorefonts/arial.ttf"
+BOLD_FONT_PATH = "/usr/share/fonts/truetype/msttcorefonts/arialbd.ttf"
+TITLE = "Servus!"
+TITLE_SIZE = 64
+TITLE_COLORS = {"dark": "#E6EDF3", "light": "#1F2328"}
 FONT_SIZE = 11
 HEIGHT = 20
 PAD_X = 9
@@ -121,12 +125,31 @@ def pill(label, style, font):
     return "".join(parts)
 
 
+def title(text, color, font):
+    ascent, _ = font.getmetrics()
+    left, top, right, _ = font.getbbox(text)
+    width = right - left + 2
+    baseline = ascent - top + 1
+    height = baseline + 1
+    return (
+        f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" '
+        f'viewBox="0 0 {width} {height}" role="img" aria-label="{escape(text)}">'
+        f'<text x="1" y="{baseline}" fill="{color}" font-weight="700" '
+        f'font-family="-apple-system, \'Segoe UI\', Helvetica, Arial, sans-serif" '
+        f'font-size="{TITLE_SIZE}" textLength="{width - 2}" lengthAdjust="spacingAndGlyphs">'
+        f"{escape(text)}</text></svg>"
+    )
+
+
 def main():
     out = Path(__file__).parent
     font = ImageFont.truetype(FONT_PATH, FONT_SIZE)
     for group, labels in TAGS.items():
         for label in labels:
             (out / f"{slug(label)}.svg").write_text(pill(label, STYLES[group], font) + "\n")
+    bold = ImageFont.truetype(BOLD_FONT_PATH, TITLE_SIZE)
+    for theme, color in TITLE_COLORS.items():
+        (out / f"title-{theme}.svg").write_text(title(TITLE, color, bold) + "\n")
 
 
 if __name__ == "__main__":
