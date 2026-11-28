@@ -44,7 +44,7 @@
 </td>
 <td valign="top">
 
-<img src="hackerrank-badges.png" alt="My HackerRank badges: Problem Solving, C++, and Java" width="260">
+<picture><img src="hackerrank-badges.png" alt="My HackerRank badges: Problem Solving, C++, and Java" width="260"></picture>
 
 </td>
 </tr>
