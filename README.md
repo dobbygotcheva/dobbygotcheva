@@ -1,4 +1,4 @@
-<h1><picture><source media="(prefers-color-scheme: dark)" srcset="pills/title-dark.svg"><img src="pills/title-light.svg" alt="Servus!"></picture>&nbsp;&nbsp;<a href="https://www.hackerrank.com/certificates/iframe/00c3db86eb2d"><img src="hackerrank-badges.png" alt="HackerRank badges: Problem Solving, C++, and Java" height="90"></a></h1>
+<h1><picture><source media="(prefers-color-scheme: dark)" srcset="pills/title-dark.svg"><img src="pills/title-light.svg" alt="Servus!"></picture>&nbsp;&nbsp;<a href="https://tenor.com/view/balhae-gif-21817368"><img src="meme.gif" alt="Balhae meme GIF" height="90"></a></h1>
 
 <table>
 <tr>
@@ -44,7 +44,7 @@
 </td>
 <td valign="top">
 
-<a href="https://tenor.com/view/balhae-gif-21817368"><img src="meme.gif" alt="Balhae meme GIF" width="240"></a>
+<a href="https://www.hackerrank.com/certificates/iframe/00c3db86eb2d"><img src="hackerrank-badges.png" alt="My HackerRank badges: Problem Solving, C++, and Java" width="260"></a>
 
 </td>
 </tr>
